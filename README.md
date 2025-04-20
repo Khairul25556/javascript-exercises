@@ -1,3 +1,4 @@
+## Ques:
 1. First take an array and an object:
 ```
 cost = [100, 200, 300];
